@@ -79,7 +79,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ayushsaha1018/ayushsaha1018/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/ayushsaha1018/ayushsaha1018/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 <!---
