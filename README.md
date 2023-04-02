@@ -2,15 +2,15 @@
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <img height="150" src="https://media.giphy.com/media/eCbb6tUoj3hA29KENY/giphy.gif"  />
-</div>
+</div> -->
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://profile-counter.glitch.me/ayushsaha1018/count.svg?"  />
-</div>
+</div> -->
 
 ###
 
